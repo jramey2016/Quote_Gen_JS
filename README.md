@@ -1,2 +1,4 @@
 # Quote_Gen_JS
-Quote Generator written with JS, CSS, HTML
+Quote Generator written with JS, CSS, & HTML.
+
+
